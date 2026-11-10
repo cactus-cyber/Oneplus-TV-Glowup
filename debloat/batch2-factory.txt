@@ -1,0 +1,4 @@
+# OnePlus Y1 43" - batch 2, factory/test tools (tested in examples/oneplus-tv-y1/debloat.txt)
+com.coocaa.factory
+com.mediatek.testpq
+com.mediatek.tv.factory

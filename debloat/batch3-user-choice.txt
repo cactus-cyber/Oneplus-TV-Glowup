@@ -1,0 +1,5 @@
+# OnePlus Y1 43" - batch 3, unticked by the owner (kept: Netflix, Prime Video, JioHotstar, Sony LIV,
+# ZEE5, Spotify, YouTube, YouTube Music, Assistant, Chromecast)
+com.airoha.ble.ota
+com.google.android.play.games
+com.google.android.videos

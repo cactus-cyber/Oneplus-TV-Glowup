@@ -1,0 +1,12 @@
+# OnePlus Y1 43" - batch 1, from examples/oneplus-tv-y1/debloat.txt
+android.autoinstalls.config.skyworth
+fusion.android.tv.demo
+com.smartdevice.common.demonow
+com.mstar.android.tv.disclaimercustomization
+com.Smartdevice.emanual
+com.google.android.feedback
+com.google.android.syncadapters.calendar
+com.android.providers.calendar
+com.google.android.boot.appsplashscreen
+com.google.android.tvrecommendations
+com.google.android.leanbacklauncher.partnercustomizer

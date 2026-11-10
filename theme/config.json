@@ -1,0 +1,50 @@
+{
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.sonyliv",
+    "in.startv.hotstar",
+    "com.apple.atve.androidtv.appletv"
+  ],
+  "fill_dock": true,
+  "columns": 5,
+  "rows_below_dock": 0,
+  "background_color": "#05070C",
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 5,
+  "wallpaper_order": "shuffle",
+  "wallpaper_captions": false,
+  "wallpaper_true_color": true,
+  "wallpaper_dim": 0,
+  "cinematic_home": false,
+  "dock_title": true,
+  "dock_glass": true,
+  "dock_opacity": 90,
+  "dock_even_padding": true,
+  "icon_only_buttons": false,
+  "icon_only_inputs": false,
+  "ambient_glow": false,
+  "app_glow": false,
+  "fade_rows": true,
+  "focus_overshoot": false,
+  "advanced_effects": true,
+  "dock_band": true,
+  "glass_style": "halo",
+  "single_row": true,
+  "dock_band_all": true,
+  "hidden_apps": [
+    "com.mediatek.wwtv.tvcenter",
+    "com.mitv.gallery",
+    "com.mediatek.wwtv.mediaplayer",
+    "com.oneplus.tv.remote"
+  ],
+  "header_white": true,
+  "home_idle_clock_minutes": 3,
+  "back_opens_clock": true,
+  "clock_wallpaper": true,
+  "clock_wallpaper_dim": 45,
+  "app_keys": [
+    "82:input:com.mediatek.tvinput/.hdmi.HDMIInputService/HW5"
+  ],
+  "live_tv_package": "com.mediatek.wwtv.tvcenter"
+}
